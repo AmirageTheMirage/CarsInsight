@@ -1,0 +1,333 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1715004518680354, "dur":21681, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1715004518702041, "dur":778, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1715004518702862, "dur":934, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1715004518703980, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":0, "ts":1715004518704085, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/level0" }}
+,{ "pid":12345, "tid":0, "ts":1715004518704363, "dur":222, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":0, "ts":1715004518704596, "dur":77, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1715004518704684, "dur":150, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":0, "ts":1715004518704885, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1715004518705206, "dur":73, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":0, "ts":1715004518705362, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715004518703882, "dur":4706, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1715004518708590, "dur":145280, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1715004518853876, "dur":51, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1715004518853927, "dur":248, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1715004518854175, "dur":132, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1715004518854442, "dur":1669, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1715004518703604, "dur":4992, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1715004518708599, "dur":3465, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1715004518712578, "dur":354, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":1, "ts":1715004518712934, "dur":67, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1715004518713005, "dur":3527, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1715004518716533, "dur":1505, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1715004518718258, "dur":240, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\mirag\\OneDrive\\Dokumente\\GitHub\\car\\Car\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715004518718499, "dur":220, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\mirag\\OneDrive\\Dokumente\\GitHub\\car\\Car\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Postprocessing.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715004518718721, "dur":535, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\mirag\\OneDrive\\Dokumente\\GitHub\\car\\Car\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715004518719257, "dur":276, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\mirag\\OneDrive\\Dokumente\\GitHub\\car\\Car\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715004518719534, "dur":359, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\mirag\\OneDrive\\Dokumente\\GitHub\\car\\Car\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715004518719894, "dur":174, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\mirag\\OneDrive\\Dokumente\\GitHub\\car\\Car\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715004518720069, "dur":401, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\mirag\\OneDrive\\Dokumente\\GitHub\\car\\Car\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715004518720471, "dur":121, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\mirag\\OneDrive\\Dokumente\\GitHub\\car\\Car\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715004518720594, "dur":356, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\mirag\\OneDrive\\Dokumente\\GitHub\\car\\Car\\Library\\Bee\\PlayerScriptAssemblies\\Cinemachine.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715004518712933, "dur":8206, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1715004518721478, "dur":55, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1715004518722083, "dur":108099, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1715004518852767, "dur":79, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1715004518852767, "dur":80, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1715004518852869, "dur":838, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1715004518703713, "dur":4896, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715004518708612, "dur":359, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715004518708971, "dur":3271, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715004518712243, "dur":246, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1715004518722252, "dur":3701, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1715004518725994, "dur":14057, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715004518740084, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715004518740162, "dur":10073, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715004518750323, "dur":9145, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715004518759565, "dur":9587, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715004518769219, "dur":6132, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715004518775380, "dur":22680, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":2, "ts":1715004518798081, "dur":55736, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715004518704645, "dur":4579, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715004518709224, "dur":2945, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715004518722321, "dur":3669, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1715004518726023, "dur":81, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715004518726112, "dur":14623, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715004518740866, "dur":9887, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715004518750800, "dur":160, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715004518750979, "dur":8888, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715004518759898, "dur":205, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715004518760120, "dur":9083, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715004518769225, "dur":197, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715004518769435, "dur":5935, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715004518775403, "dur":76056, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1715004518851476, "dur":2420, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715004518704689, "dur":4539, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715004518709228, "dur":2929, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715004518719999, "dur":5970, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":4, "ts":1715004518726065, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715004518726224, "dur":15719, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715004518742023, "dur":125, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715004518742194, "dur":9880, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715004518752129, "dur":83, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715004518752238, "dur":10669, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715004518762977, "dur":7683, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715004518770723, "dur":15395, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715004518786331, "dur":4262, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":4, "ts":1715004518790689, "dur":63162, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1715004518703855, "dur":4932, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1715004518708789, "dur":319, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1715004518709108, "dur":3119, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1715004518712227, "dur":125, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1715004518724444, "dur":6455, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1715004518730973, "dur":2281, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1715004518733297, "dur":11150, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715004518744476, "dur":87, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1715004518744579, "dur":9998, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715004518754602, "dur":595, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1715004518755224, "dur":9454, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715004518764698, "dur":98, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1715004518764808, "dur":7026, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715004518771886, "dur":15694, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715004518787679, "dur":10570, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1715004518798273, "dur":55610, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1715004518703904, "dur":4962, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1715004518708867, "dur":402, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1715004518709269, "dur":2815, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1715004518712090, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1715004518713283, "dur":5165, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1715004518718579, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1715004518718676, "dur":432, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1715004518722251, "dur":3336, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1715004518725635, "dur":182, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1715004518725883, "dur":13957, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":6, "ts":1715004518739904, "dur":94, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1715004518740055, "dur":9807, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":6, "ts":1715004518749938, "dur":9184, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1715004518759179, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1715004518759277, "dur":9568, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1715004518768937, "dur":6095, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1715004518775085, "dur":34157, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":6, "ts":1715004518809268, "dur":44624, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1715004518703962, "dur":4909, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1715004518708872, "dur":514, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1715004518709386, "dur":2688, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1715004518712232, "dur":149, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1715004518718063, "dur":1155, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/app.info" }}
+,{ "pid":12345, "tid":7, "ts":1715004518724390, "dur":57, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1715004518719764, "dur":4691, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715004518724690, "dur":13349, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715004518738070, "dur":97, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1715004518738209, "dur":9368, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715004518747604, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1715004518747685, "dur":9209, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715004518756926, "dur":117, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1715004518757062, "dur":9722, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715004518766814, "dur":149, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1715004518766977, "dur":6637, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715004518773673, "dur":15320, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715004518789401, "dur":64395, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1715004518704041, "dur":4833, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1715004518708880, "dur":298, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1715004518709179, "dur":3044, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1715004518712227, "dur":120, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1715004518712224, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1715004518724451, "dur":6375, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1715004518730900, "dur":2362, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1715004518733310, "dur":11802, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":8, "ts":1715004518745139, "dur":103, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1715004518745258, "dur":10365, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1715004518755707, "dur":9791, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1715004518765584, "dur":6780, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1715004518772427, "dur":15168, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1715004518787700, "dur":10551, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":8, "ts":1715004518798271, "dur":55532, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1715004518704149, "dur":4758, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1715004518708908, "dur":167, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1715004518709075, "dur":3155, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1715004518712230, "dur":126, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1715004518725670, "dur":4972, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1715004518730704, "dur":2519, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1715004518733252, "dur":10123, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715004518743457, "dur":9893, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715004518753429, "dur":10713, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715004518764207, "dur":7024, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715004518771288, "dur":16275, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715004518787641, "dur":10623, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/level0" }}
+,{ "pid":12345, "tid":9, "ts":1715004518798318, "dur":55580, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1715004518704199, "dur":4999, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1715004518709198, "dur":3020, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1715004518712224, "dur":98, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":10, "ts":1715004518712219, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":10, "ts":1715004518724357, "dur":5798, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":10, "ts":1715004518730240, "dur":12219, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":10, "ts":1715004518742529, "dur":9587, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":10, "ts":1715004518752141, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1715004518752216, "dur":8515, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1715004518760753, "dur":1850, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1715004518762638, "dur":7466, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1715004518783523, "dur":55, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1715004518770162, "dur":13563, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1715004518783858, "dur":126, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1715004518784017, "dur":2597, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":10, "ts":1715004518786669, "dur":11137, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/resources.assets" }}
+,{ "pid":12345, "tid":10, "ts":1715004518797833, "dur":55992, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1715004518704256, "dur":4946, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1715004518709202, "dur":3013, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1715004518712215, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1715004518723101, "dur":2687, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1715004518725936, "dur":12550, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":11, "ts":1715004518738514, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1715004518738587, "dur":10530, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":11, "ts":1715004518749191, "dur":8618, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1715004518757891, "dur":9905, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1715004518767873, "dur":6583, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1715004518789317, "dur":91, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1715004518774509, "dur":14916, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1715004518789634, "dur":64207, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1715004518704310, "dur":4896, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1715004518709206, "dur":2990, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1715004518712196, "dur":88, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":12, "ts":1715004518722160, "dur":2701, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":12, "ts":1715004518725707, "dur":7109, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":12, "ts":1715004518732873, "dur":357, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1715004518733257, "dur":10350, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":12, "ts":1715004518743633, "dur":70, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1715004518743724, "dur":9951, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1715004518753743, "dur":10489, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1715004518764306, "dur":7297, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1715004518771690, "dur":15868, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1715004518787657, "dur":10545, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/level1" }}
+,{ "pid":12345, "tid":12, "ts":1715004518798242, "dur":55567, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1715004518704379, "dur":4831, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1715004518709210, "dur":3029, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1715004518712245, "dur":265, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":13, "ts":1715004518712240, "dur":271, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":13, "ts":1715004518722178, "dur":3795, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":13, "ts":1715004518726033, "dur":97, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1715004518726214, "dur":13205, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":13, "ts":1715004518739451, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1715004518739521, "dur":10321, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/Cinemachine.dll" }}
+,{ "pid":12345, "tid":13, "ts":1715004518749895, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1715004518749967, "dur":8966, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1715004518758960, "dur":84, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1715004518759063, "dur":9443, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1715004518768525, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1715004518768614, "dur":6220, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1715004518774849, "dur":117, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1715004518789333, "dur":94, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1715004518774978, "dur":14465, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1715004518789494, "dur":64373, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1715004518704435, "dur":4778, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1715004518709214, "dur":3021, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1715004518712235, "dur":164, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":14, "ts":1715004518722284, "dur":2613, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":14, "ts":1715004518725501, "dur":10313, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":14, "ts":1715004518735885, "dur":118, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1715004518736035, "dur":9593, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":14, "ts":1715004518745710, "dur":10168, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1715004518755965, "dur":9733, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1715004518765799, "dur":6867, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1715004518772684, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1715004518772746, "dur":15746, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1715004518788618, "dur":9656, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":14, "ts":1715004518798325, "dur":55444, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1715004518704490, "dur":4727, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1715004518709217, "dur":3017, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1715004518712240, "dur":202, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":15, "ts":1715004518712234, "dur":209, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":15, "ts":1715004518722325, "dur":3813, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":15, "ts":1715004518726203, "dur":85, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1715004518726311, "dur":15088, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":15, "ts":1715004518741455, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1715004518741602, "dur":10117, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":15, "ts":1715004518751744, "dur":83, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1715004518751843, "dur":8366, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1715004518760238, "dur":82, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1715004518760338, "dur":8893, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1715004518769250, "dur":174, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1715004518769438, "dur":6375, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1715004518775885, "dur":10366, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":15, "ts":1715004518786345, "dur":11891, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":15, "ts":1715004518798282, "dur":55607, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1715004518703697, "dur":4907, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1715004518708606, "dur":652, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1715004518709258, "dur":2836, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1715004518712239, "dur":138, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1715004518721852, "dur":4009, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":16, "ts":1715004518725916, "dur":11580, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":16, "ts":1715004518737537, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1715004518737608, "dur":8925, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":16, "ts":1715004518746562, "dur":157, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1715004518746737, "dur":9755, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1715004518756513, "dur":87, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1715004518756652, "dur":9600, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1715004518766318, "dur":6866, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1715004518773233, "dur":16062, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1715004518789385, "dur":64514, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1715004518704546, "dur":4675, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1715004518709221, "dur":2970, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1715004518712196, "dur":77, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":17, "ts":1715004518712191, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":17, "ts":1715004518720818, "dur":3724, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":17, "ts":1715004518724724, "dur":17813, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car.exe" }}
+,{ "pid":12345, "tid":17, "ts":1715004518742584, "dur":76, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1715004518742685, "dur":9932, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":17, "ts":1715004518752703, "dur":10718, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1715004518763478, "dur":7479, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1715004518771018, "dur":14816, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1715004518786034, "dur":11552, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":17, "ts":1715004518797639, "dur":56146, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1715004518703772, "dur":4851, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1715004518708626, "dur":569, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1715004518709195, "dur":3024, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1715004518712219, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":18, "ts":1715004518724453, "dur":2827, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":18, "ts":1715004518727306, "dur":2594, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1715004518729926, "dur":11784, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":18, "ts":1715004518741831, "dur":10009, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":18, "ts":1715004518751916, "dur":8457, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1715004518760402, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1715004518760493, "dur":9004, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1715004518769558, "dur":6291, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1715004518783547, "dur":72, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1715004518775897, "dur":7846, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":18, "ts":1715004518783880, "dur":13480, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":18, "ts":1715004518797387, "dur":56446, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1715004518704788, "dur":4443, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1715004518709232, "dur":2858, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1715004518712236, "dur":137, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1715004518724317, "dur":1792, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":19, "ts":1715004518726159, "dur":101, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.16f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Net.Http.dll" }}
+,{ "pid":12345, "tid":19, "ts":1715004518726158, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":19, "ts":1715004518726323, "dur":15733, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":19, "ts":1715004518742084, "dur":100, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1715004518742200, "dur":9752, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/Unity.Postprocessing.Runtime.dll" }}
+,{ "pid":12345, "tid":19, "ts":1715004518751979, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1715004518752070, "dur":8473, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1715004518760570, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1715004518760645, "dur":8962, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1715004518769647, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1715004518769745, "dur":6088, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1715004518775900, "dur":22177, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":19, "ts":1715004518798116, "dur":55713, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1715004518704866, "dur":4369, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1715004518709235, "dur":2948, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1715004518712184, "dur":352, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":20, "ts":1715004518712537, "dur":135, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1715004518722212, "dur":3536, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":20, "ts":1715004518725860, "dur":11996, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":20, "ts":1715004518737886, "dur":108, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1715004518738040, "dur":8844, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":20, "ts":1715004518746908, "dur":197, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1715004518747122, "dur":9224, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1715004518756369, "dur":206, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1715004518756593, "dur":10077, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1715004518766692, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1715004518766787, "dur":6853, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1715004518773710, "dur":15462, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mirag/Desktop/CarsVersion/FinalVersion1/Car_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1715004518789246, "dur":64633, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1715004518857809, "dur":793, "ph":"X", "name": "ProfilerWriteOutput" }
+,
